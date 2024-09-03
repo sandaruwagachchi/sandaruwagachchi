@@ -1,7 +1,7 @@
 [![MasterHead](https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif)]
 <h1 align="center">Hi 👋, I'm Sandaru Wagachchi</h1>
 <h3 align="center">I am a Developer</h3>
-<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFlZHFtczZyYnl2b2lrMmpncWhlajAyaDY4cjVkeGFzeXA1aWlsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.webp">
+<img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFlZHFtczZyYnl2b2lrMmpncWhlajAyaDY4cjVkeGFzeXA1aWlsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandaruwagachchi&label=Profile%20views&color=0e75b6&style=flat" alt="sandaruwagachchi" /> </p>
 
