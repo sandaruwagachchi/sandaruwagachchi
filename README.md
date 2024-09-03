@@ -1,6 +1,6 @@
 [![MasterHead](https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif)]
 <h1 align="center">Hi 👋, I'm Sandaru Wagachchi</h1>
-<h3 align="center">I am a Developer</h3>
+<h3 align="center">I am a developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFlZHFtczZyYnl2b2lrMmpncWhlajAyaDY4cjVkeGFzeXA1aWlsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandaruwagachchi&label=Profile%20views&color=0e75b6&style=flat" alt="sandaruwagachchi" /> </p>
@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sandaru wagachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandaru wagachchi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sandaru wagachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandaru wagachchi" height="30" width="40" /></a>
-<a href="https://instagram.com/sandaru wagachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandaru wagachchi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sandaru wagachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandaru wagachchi" height="30" width="40" /></a>
+<a href="https://x.com/SPWagachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandaru wagachchi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sandaru-wagachchi-8996a32b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandaru wagachchi" height="30" width="40" /></a>
+<a href="https://instagram.com/sandaru_wagachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandaru wagachchi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/wagachchisandaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandaru wagachchi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
