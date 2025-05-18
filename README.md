@@ -1,5 +1,7 @@
 
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+![Header](./C:\Users\User\Downloads\github-header-image.png)
+
+
 <h1 align="center">Hi, I'm Sandaru Wagachchi </h1>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
