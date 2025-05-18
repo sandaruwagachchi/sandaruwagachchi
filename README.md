@@ -1,5 +1,5 @@
 
-![Header](./C:\Users\User\Downloads\github-header-image.png)
+![Header](github-header-image.png)
 
 
 <h1 align="center">Hi, I'm Sandaru Wagachchi </h1>
