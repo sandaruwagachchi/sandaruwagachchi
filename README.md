@@ -4,13 +4,12 @@
 
 <h1 align="center">Hi, I'm Sandaru Wagachchi </h1>
 
-<img src="https://github.com/sandaruwagachchi/sandaruwagachchi/blob/main/octocat-1747584875861.png" width="100" />
-
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Developer...&center=true&width=380&height=45&color=40b983&vCenter=true&size=22" alt="Typing SVG" />
   <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
 </h2>
 
+<img src="https://github.com/sandaruwagachchi/sandaruwagachchi/blob/main/octocat-1747584875861.png" width="100" />
 <img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFlZHFtczZyYnl2b2lrMmpncWhlajAyaDY4cjVkeGFzeXA1aWlsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandaruwagachchi&label=Profile%20views&color=0e75b6&style=flat" alt="sandaruwagachchi" /> </p>
