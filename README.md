@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://x.com/SPWagachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandaru wagachchi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sandaru-wagachchi-8996a32b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandaru wagachchi" height="30" width="40" /></a>
-<a href="https://instagram.com/sandaru_wagachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandaru wagachchi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/inst_sanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandaru wagachchi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/wagachchisandaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandaru wagachchi" height="30" width="40" /></a>
 </p>
 
