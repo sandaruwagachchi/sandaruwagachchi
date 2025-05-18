@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Sandaru Wagachchi </h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Developer&center=true&width=380&height=45&color=40b983&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Developer...&center=true&width=380&height=45&color=40b983&vCenter=true&size=22" alt="Typing SVG" />
   <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
 </h2>
 
