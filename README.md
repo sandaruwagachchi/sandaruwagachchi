@@ -1,5 +1,5 @@
 
-![Header](github-header-image.png)
+![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
 
 
 <h1 align="center">Hi, I'm Sandaru Wagachchi </h1>
