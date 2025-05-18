@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Sandaru Wagachchi </h1>
 
-<img src="https://github.com/sandaruwagachchi/sandaruwagachchi/blob/main/octocat-1747584875861.png" width="1920" />
+<img src="https://github.com/sandaruwagachchi/sandaruwagachchi/blob/main/octocat-1747584875861.png" width="100" />
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Developer...&center=true&width=380&height=45&color=40b983&vCenter=true&size=22" alt="Typing SVG" />
