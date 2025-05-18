@@ -1,6 +1,5 @@
 [![MasterHead](https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=2000)](https://codegrills.in)
 <h1 align="center">Hi, I'm Sandaru Wagachchi </h1>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2 align="center">
