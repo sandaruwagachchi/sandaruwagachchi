@@ -1,8 +1,7 @@
 
 ![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
-
-
 <h1 align="center">Hi, I'm Sandaru Wagachchi </h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Developer...&center=true&width=380&height=45&color=40b983&vCenter=true&size=22" alt="Typing SVG" />
