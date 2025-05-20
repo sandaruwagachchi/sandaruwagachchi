@@ -1,5 +1,5 @@
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=g-dw3FI3xdjJRFvnPlFM9vFqoXc5N3SxnW4jEuqG4o0" width="1000" />
 
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=g-dw3FI3xdjJRFvnPlFM9vFqoXc5N3SxnW4jEuqG4o0)
 <h1 align="center">Hi, I'm Sandaru Wagachchi </h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
