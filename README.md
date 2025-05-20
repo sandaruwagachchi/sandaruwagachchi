@@ -1,5 +1,5 @@
 
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhackernoon.com%2Fpresenting-your-code-beautifully-fdbab9e6fb68&psig=AOvVaw17hEhsyH5GJtgTAduhy1Cw&ust=1747821492264000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKj888_ksY0DFQAAAAAdAAAAABAE)
+![MasterHead](https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif)
 <h1 align="center">Hi, I'm Sandaru Wagachchi </h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
