@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/sandaru wagachchi" target="blank"><img src="https://img.shields.io/twitter/follow/sandaru wagachchi?logo=twitter&style=for-the-badge" alt="sandaru wagachchi" /></a> </p>
 
-- 🌱 I’m Currently Learning Higher National Diploma in **National Institute of Business Management**
+I’m Currently Learning Higher National Diploma in **National Institute of Business Management**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
