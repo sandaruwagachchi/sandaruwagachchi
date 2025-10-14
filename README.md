@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=g-dw3FI3xdjJRFvnPlFM9vFqoXc5N3SxnW4jEuqG4o0" width="1000" />
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=g-dw3FI3xdjJRFvnPlFM9vFqoXc5N3SxnW4jEuqG4o0](https://lottiefiles.com/free-animation/coding-o5mKNbAYBd" width="1000" />
 
 <h1 align="center">Hi, I'm Sandaru Wagachchi </h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -21,7 +21,6 @@ I’m Currently Learning Higher National Diploma in **National Institute of Busi
 <p align="left">
 <a href="https://x.com/SPWagachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandaru wagachchi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sandaru-wagachchi-8996a32b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandaru wagachchi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/inst_sanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandaru wagachchi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/wagachchisandaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandaru wagachchi" height="30" width="40" /></a>
 </p>
 
