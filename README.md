@@ -70,3 +70,11 @@ I’m Currently Learning Higher National Diploma in **National Institute of Busi
 ![snake gif](https://github.com/sandaruwagachchi/sandaruwagachchi/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="300" align="right" margin-bottom="80">
+## Thanks for Visiting🔝
+
+### Made with 💜 by [Sandaru](https://www.linkedin.com/in/sandaru-wagachchi-8996a32b2/)
+
+### Please 🌟 this repository! It really helps others to find this!!  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />
+
+Please create an issue or get in touch with me if you have any feedback or suggestions.
