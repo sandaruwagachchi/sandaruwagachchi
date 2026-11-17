@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0f1c"/>
+      <stop offset="1" stop-color="#0b1a17"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#40b983"/>
+      <stop offset="0.5" stop-color="#8ef0cf"/>
+      <stop offset="1" stop-color="#3fa7d6"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#40b983"/>
+      <stop offset="1" stop-color="#3fa7d6"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    </pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+    <clipPath id="card"><rect width="1200" height="340" rx="22"/></clipPath>
+  </defs>
+
+  <style>
+    .b1 { animation: f1 14s ease-in-out infinite alternate; }
+    .b2 { animation: f2 18s ease-in-out infinite alternate; }
+    .b3 { animation: f1 22s ease-in-out infinite alternate-reverse; }
+    @keyframes f1 { from { transform: translate(0,0); } to { transform: translate(140px,50px); } }
+    @keyframes f2 { from { transform: translate(0,0); } to { transform: translate(-160px,-40px); } }
+
+    .hello { font: 600 18px ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace; fill: #40b983; letter-spacing: 3px; opacity: 0; animation: up .8s .1s ease-out forwards; }
+    .name  { font: 800 66px 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif; letter-spacing: -1.5px; opacity: 0; animation: up .9s .35s ease-out forwards; }
+    .role  { font: 500 22px 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif; fill: #a9bacb; opacity: 0; animation: up .9s .7s ease-out forwards; }
+    .uline { stroke-dasharray: 260; stroke-dashoffset: 260; animation: draw 1.2s 1s ease-out forwards; }
+    .chip  { opacity: 0; animation: up .7s ease-out forwards; }
+    .chip text { font: 600 14px 'Segoe UI', Inter, Arial, sans-serif; fill: #d6e2ee; }
+    .status text { font: 500 14px 'Segoe UI', Inter, Arial, sans-serif; fill: #a9bacb; }
+    .pulse { transform-origin: 74px 288px; animation: pulse 1.8s ease-out infinite; }
+
+    .ring1 { transform-origin: 950px 170px; animation: spin 30s linear infinite; }
+    .ring2 { transform-origin: 950px 170px; animation: spin 20s linear infinite reverse; }
+    .code  { animation: float 5s ease-in-out infinite; }
+    .dot   { animation: float 4s ease-in-out infinite; }
+    .dot2  { animation: float 6s ease-in-out infinite reverse; }
+
+    @keyframes up    { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes draw  { to { stroke-dashoffset: 0; } }
+    @keyframes spin  { to { transform: rotate(360deg); } }
+    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+    @keyframes pulse { 0% { transform: scale(1); opacity: .7; } 100% { transform: scale(2.8); opacity: 0; } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <g filter="url(#blur)" opacity="0.55">
+      <circle class="b1" cx="180" cy="60"  r="150" fill="#40b983"/>
+      <circle class="b2" cx="1000" cy="300" r="170" fill="#3fa7d6"/>
+      <circle class="b3" cx="650" cy="-20" r="110" fill="#2c7a5b"/>
+    </g>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="22" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <!-- Left: text -->
+  <text class="hello" x="64" y="88">&lt;HELLO WORLD /&gt;</text>
+  <text class="name"  x="60" y="160" fill="url(#txt)">Sandaru Wagachchi</text>
+  <path class="uline" d="M64 182 H324" stroke="url(#stroke)" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <text class="role"  x="64" y="222">Associate Software Engineer  ·  Full-Stack &amp; Mobile Developer</text>
+
+  <!-- Status -->
+  <g class="chip status" style="animation-delay:1.3s">
+    <rect x="52" y="268" width="230" height="40" rx="20" fill="#ffffff" fill-opacity="0.05" stroke="#40b983" stroke-opacity="0.35"/>
+    <circle class="pulse" cx="74" cy="288" r="6" fill="#40b983"/>
+    <circle cx="74" cy="288" r="6" fill="#40b983"/>
+    <text x="90" y="293">Open to collaboration</text>
+  </g>
+
+  <!-- Chips -->
+  <g class="chip" style="animation-delay:1.5s">
+    <rect x="296" y="268" width="74" height="40" rx="20" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+    <text x="316" y="293">Java</text>
+  </g>
+  <g class="chip" style="animation-delay:1.65s">
+    <rect x="380" y="268" width="128" height="40" rx="20" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+    <text x="400" y="293">React Native</text>
+  </g>
+  <g class="chip" style="animation-delay:1.8s">
+    <rect x="518" y="268" width="68" height="40" rx="20" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+    <text x="538" y="293">PHP</text>
+  </g>
+  <g class="chip" style="animation-delay:1.95s">
+    <rect x="596" y="268" width="86" height="40" rx="20" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+    <text x="616" y="293">MySQL</text>
+  </g>
+
+  <!-- Right: graphic -->
+  <g opacity="0.9">
+    <circle class="ring1" cx="950" cy="170" r="118" fill="none" stroke="url(#stroke)" stroke-width="2" stroke-dasharray="6 14" opacity="0.6"/>
+    <circle class="ring2" cx="950" cy="170" r="88"  fill="none" stroke="url(#stroke)" stroke-width="1.5" stroke-dasharray="120 40" opacity="0.8"/>
+    <g class="code">
+      <circle cx="950" cy="170" r="58" fill="#0d1117" stroke="#ffffff" stroke-opacity="0.12"/>
+      <path d="M932 150 L912 170 L932 190 M968 150 L988 170 L968 190 M958 144 L942 196"
+            fill="none" stroke="url(#stroke)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <circle class="dot"  cx="1090" cy="80"  r="6" fill="#40b983"/>
+    <circle class="dot2" cx="820"  cy="270" r="5" fill="#3fa7d6"/>
+    <circle class="dot"  cx="1100" cy="250" r="4" fill="#8ef0cf"/>
+  </g>
+</svg>
